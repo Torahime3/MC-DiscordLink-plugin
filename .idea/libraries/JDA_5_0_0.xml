@@ -2,6 +2,7 @@
   <library name="JDA-5.0.0">
     <CLASSES>
       <root url="jar://$USER_HOME$/Desktop/Development/DevServ/libraries/JDA-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nathan/Development/DevServ/libraries/JDA-5.0.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

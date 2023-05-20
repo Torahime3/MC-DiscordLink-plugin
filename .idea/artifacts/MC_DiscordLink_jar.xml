@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="MC-DiscordLink:jar">
-    <output-path>$USER_HOME$/Desktop/Development/DevServ/plugins</output-path>
+    <output-path>$USER_HOME$/Desktop/Nathan/Development/DevServ/plugins</output-path>
     <root id="archive" name="MC-DiscordLink.jar">
       <element id="module-output" name="MC-DiscordLink" />
-      <element id="extracted-dir" path="$USER_HOME$/Desktop/Development/DevServ/spigot.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$USER_HOME$/Desktop/Development/DevServ/libraries/JDA-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Nathan/Development/DevServ/libraries/JDA-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Nathan/Development/DevServ/spigot.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

@@ -72,7 +72,7 @@ public class Main extends JavaPlugin {
 
         config.addDefault("DiscordBotToken", "");
         config.addDefault("ChannelID", "");
-        config.addDefault("DiscordPrefix", "§9[DISCORD]§f");
+        config.addDefault("DiscordPrefix", "§9[DISCORD]§f ");
 
         config.options().copyDefaults(true);
         saveConfig();
