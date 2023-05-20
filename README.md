@@ -19,7 +19,8 @@ DiscordPrefix: "\xa79[DISCORD]\xa7f"
 
 ● To get the Channel ID in which you want the discord bot to send messages, right click on the text channel, and copy the channel ID
 
-● The discord prefix represents the prefix that will be sent in the minecraft chat when a player talks from the discord channel
+● The discord prefix represents the prefix that will be sent in the minecraft chat when a player talks from the discord channel. To change the color of the prefix, just put the character of the minecraft color before "\xa7".
+For example, the dark red has the color code §4. Then you should write \xa74. 
 
 Restart the server, and if everything was well configured, the bot should turn online and these messages should appear in the console 
 
