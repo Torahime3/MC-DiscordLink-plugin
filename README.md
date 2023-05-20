@@ -31,6 +31,15 @@ Restart the server, and if everything was well configured, the bot should turn o
 
 Now all you have to do is chat!
 
+## Contributing
+
+If you want to contribute to the project, make sure you are using the following libraries:
+
+```yml
+spigot: "1.8.8"
+JDA: "5.0.0" 
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
